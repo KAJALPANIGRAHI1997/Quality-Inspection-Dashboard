@@ -67,6 +67,10 @@ The dataset contains the following columns:
 -Q/A BUTTON where we can analyze whatelse information related to this project – (Replace with your actual repo URL)
 
 ---
+📬 Contact
+For questions or feedback, feel free to reach out via [https://www.linkedin.com/in/kajal-panigrahi-873168210/] or kajal246gayatri@gmail.com.
+
+----
 
 ## 📌 Author
 
