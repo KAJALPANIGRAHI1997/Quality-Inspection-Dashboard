@@ -1,9 +1,8 @@
-# Quality-Inspection-Dashboard
-Power BI dashboard to analyze quality inspection metrics, supplier performance, defect types, and profit across production lines.
 # 📊 Quality Inspection Dashboard (Power BI)
 
 This project is a **Power BI Dashboard** that analyzes quality inspection data in a production environment.  
 It includes performance metrics for suppliers, defect types, product profitability, and inspector efficiency.
+Power BI dashboard to analyze quality inspection metrics, supplier performance, defect types, and profit across production lines.
 
 ---
 
